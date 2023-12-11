@@ -1,0 +1,12 @@
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\bin\Debug\JSNetInfo.exe.config
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\bin\Debug\JSNetInfo.exe
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\bin\Debug\JSNetInfo.pdb
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.Form1.resources
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.Form2.resources
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.Properties.Resources.resources
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.csproj.GenerateResource.Cache
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.exe
+C:\Users\jonny\Desktop\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.pdb
+C:\Users\jonny\Google Drive\Privat\Programme\JSNetInfo\JSNetInfo\bin\Debug\JSNetInfo.exe.config
+C:\Users\jonny\Google Drive\Privat\Programme\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.exe
+C:\Users\jonny\Google Drive\Privat\Programme\JSNetInfo\JSNetInfo\obj\Debug\JSNetInfo.pdb
